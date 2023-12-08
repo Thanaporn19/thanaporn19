@@ -1,6 +1,6 @@
-### Hi there 👋 i'm thanaporn 
+### Hi there 👋 i'm Thanaporn Pookai / Pasun
 ### 01/01/2001
-### 
+### I want to excel in this field with hard work, perseverance and dedication. I want a highly rewarding career where I can use my skills and knowledge for organizational and personal growth. 
 
 <!--
 **Thanaporn19/thanaporn19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
