@@ -1,7 +1,9 @@
 ### Hi there 👋 i'm Thanaporn Pookai / Pasun
- 01/01/2001
+01/01/2001
+
  I want to excel in this field with hard work, perseverance and dedication. I want a highly rewarding career where I can use my skills and knowledge for organizational and personal growth. 
-### educational record >>> Vocational Certificate in Digital Business Technology At Chiang Mai Vocational College 
+
+educational record >>> Vocational Certificate in Digital Business Technology At Chiang Mai Vocational College 
 
 
 <!--
