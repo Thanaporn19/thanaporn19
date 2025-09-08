@@ -1,26 +1,83 @@
-# 👋 Hi, I'm Thanaporn pookai / pasun 
-Junior UX/UI Designer | Passionate about creating user-friendly digital products  
+## 👋 Hi, I'm นางสาวธนภรณ์ ภู่ไข่ (Pasun)
 
-## 🛠️ Tools & Skills
-- UX Research, Wireframing, Prototyping
-- Figma, Adobe XD, 
-- Usability Testing
+🎓 **Computer Engineering Student** | Rajamangala University of Technology Lanna, Chiang Mai  
+💻 **Passionate about UX/UI Design, Data Analysis, System Development & IoT**  
+🌱 **Learning:** C, Python, IoT systems, modern IT solutions  
 
-## 📂 Projects
+---
 
-### [Redesign Mobile Banking App](projects/project1-banking-app/case-study.md)
-![preview](assets/images/project1-cover.png)  
-- **Problem:** Onboarding process was confusing for new users  
-- **Solution:** Simplified sign-up steps and improved navigation  
-- **Tools:** Figma, Miro  
+## 🛠️ Skills
 
-### [Coffee Shop Website](projects/project2-coffee-website/case-study.md)
-![preview](assets/images/project2-cover.png)  
-- **Problem:** Customers couldn’t easily order online  
-- **Solution:** Designed a clean, mobile-first ordering system  
-- **Tools:** Adobe XD, Notion
-<!--
-**Thanaporn19/thanaporn19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 UX/UI & Design
+- 🔹 User Research & Usability Testing  
+- 🔹 Wireframing & Prototyping  
+- 🔹 Figma, Adobe XD, Miro  
+
+### 💻 Programming & Development
+- 🔹 **Languages:** Python, C, HTML, CSS, JavaScript (basic)  
+- 🔹 **Data & Systems:** Database design, System analysis, Data visualization  
+- 🔹 Git/GitHub, VS Code  
+
+### 📡 IoT & Embedded Systems
+- 🔹 Arduino, Raspberry Pi  
+- 🔹 Sensors: MPU6050, Pressure, Angle sensors  
+- 🔹 I2C communication, PCA9548A multiplexer  
+
+---
+
+## 📂 Projects / Interests
+
+### 🎨 UX/UI Projects
+- **Coffee Shop Website**  
+  ![Coffee Shop](assets/images/project1-cover.png)  
+  [View Prototype on Figma](https://www.figma.com/file/placeholder-coffee-shop)  
+
+- **Mobile Banking App**  
+  ![Mobile Banking](assets/images/project2-cover.png)  
+  [View Prototype on Figma](https://www.figma.com/file/placeholder-banking-app)  
+
+- **Health Tracking App**  
+  ![Health Tracking](assets/images/project3-cover.png)  
+  [View Prototype on Figma](https://www.figma.com/file/placeholder-health-app)  
+
+### 📊 Data & System Projects
+- **Student Attendance System (University Project)**  
+  ![Attendance System](assets/images/project4-cover.png)  
+  [View Details](https://github.com/Thanaporn19/placeholder-attendance-system)  
+
+- **Python Data Analysis Scripts**  
+  ![Python Data](assets/images/project5-cover.png)  
+  [View Scripts](https://github.com/Thanaporn19/placeholder-python-data)  
+
+### 📡 IoT Projects
+- **ระบบจำลองการเคลื่อนไหว (Motion Simulation System)**  
+  ![Motion Simulation](assets/images/project6-cover.png)  
+  - เก็บข้อมูลมุมและแรงกดจากเซนเซอร์ MPU6050  
+  - เซนเซอร์หลายตัวเชื่อมต่อผ่าน PCA9548A  
+  - แสดงผลบน LCD / คอมพิวเตอร์  
+  [View Prototype / Diagram](https://github.com/Thanaporn19/placeholder-motion-iot)  
+
+---
+
+## 🎯 Goals
+- Build interactive and user-friendly digital products  
+- Combine design thinking with programming, system development & IoT  
+- Learn advanced data analysis, backend, and IoT integration  
+
+---
+
+## 📫 Contact Me
+- ✉️ Email: [ferntata19@gmail.com](mailto:ferntata19@gmail.com)  
+- 🔗 GitHub Profile / Portfolio: [Thanaporn19 GitHub](https://github.com/Thanaporn19/thanaporn19/blob/main/README.md)  
+
+---
+
+## 🏷️ Badges
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 -->
 
 # 💻 learn :
