@@ -32,10 +32,6 @@
   ![Coffee Shop](assets/images/project1-cover.png)  
   [View Prototype on Figma](https://www.figma.com/file/placeholder-coffee-shop)  
 
-- **Mobile Banking App**  
-  ![Mobile Banking](assets/images/project2-cover.png)  
-  [View Prototype on Figma](https://www.figma.com/file/placeholder-banking-app)  
-
 - **Health Tracking App**  
   ![Health Tracking](assets/images/project3-cover.png)  
   [View Prototype on Figma](https://www.figma.com/file/placeholder-health-app)  
