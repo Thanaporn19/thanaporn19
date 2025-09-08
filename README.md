@@ -1,24 +1,26 @@
-### Hi there 👋 i'm Thanaporn Pookai / Pasun
-01/01/2001
+# 👋 Hi, I'm Thanaporn pookai / pasun 
+Junior UX/UI Designer | Passionate about creating user-friendly digital products  
 
- I want to excel in this field with hard work, perseverance and dedication. I want a highly rewarding career where I can use my skills and knowledge for organizational and personal growth. 
+## 🛠️ Tools & Skills
+- UX Research, Wireframing, Prototyping
+- Figma, Adobe XD, 
+- Usability Testing
 
-educational record >>> Vocational Certificate in Digital Business Technology At Chiang Mai Vocational College 
+## 📂 Projects
 
+### [Redesign Mobile Banking App](projects/project1-banking-app/case-study.md)
+![preview](assets/images/project1-cover.png)  
+- **Problem:** Onboarding process was confusing for new users  
+- **Solution:** Simplified sign-up steps and improved navigation  
+- **Tools:** Figma, Miro  
 
+### [Coffee Shop Website](projects/project2-coffee-website/case-study.md)
+![preview](assets/images/project2-cover.png)  
+- **Problem:** Customers couldn’t easily order online  
+- **Solution:** Designed a clean, mobile-first ordering system  
+- **Tools:** Adobe XD, Notion
 <!--
 **Thanaporn19/thanaporn19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 # 💻 learn :
