@@ -1,9 +1,8 @@
-
-# 👋 Hi, I'm นางสาวธนภรณ์ ภู่ไข่ (Pasun)
+## 👋 Hi, I'm นางสาวธนภรณ์ ภู่ไข่ (Pasun)
 
 🎓 **Computer Engineering Student** | Rajamangala University of Technology Lanna, Chiang Mai  
 💻 **Passionate about UX/UI Design, Data Analysis, System Development & IoT**  
-🌱 **Learning:** C, Python, IoT systems, modern IT solutions  
+🌱 **Learning:** C, Python, IoT systems, Unity, modern IT solutions  
 
 ---
 
@@ -12,7 +11,7 @@
 ### 🎨 UX/UI & Design
 - 🔹 User Research & Usability Testing  
 - 🔹 Wireframing & Prototyping  
-- 🔹 Figma, Adobe XD, Miro  
+- 🔹 Figma, Adobe XD
 
 ### 💻 Programming & Development
 - 🔹 **Languages:** Python, C, HTML, CSS, JavaScript (basic)  
@@ -24,6 +23,11 @@
 - 🔹 Sensors: MPU6050, Pressure, Angle sensors  
 - 🔹 I2C communication, PCA9548A multiplexer  
 
+### 🎮 Unity Development
+- 🔹 Unity 3D (2021/2022 LTS)  
+- 🔹 UI Design, Login / Authentication System  
+- 🔹 Scene Management & Script-based Interactivity  
+
 ---
 
 ## 📂 Projects / Interests
@@ -31,20 +35,16 @@
 ### 🎨 UX/UI Projects
 - **Coffee Shop Website**  
   ![Coffee Shop](assets/images/project1-cover.png)  
-  [View Prototype on Figma](https://www.figma.com/file/placeholder-coffee-shop)  
 
 - **Health Tracking App**  
   ![Health Tracking](assets/images/project3-cover.png)  
-  [View Prototype on Figma](https://www.figma.com/file/placeholder-health-app)  
 
 ### 📊 Data & System Projects
 - **Student Attendance System (University Project)**  
   ![Attendance System](assets/images/project4-cover.png)  
-  [View Details](https://github.com/Thanaporn19/placeholder-attendance-system)  
 
 - **Python Data Analysis Scripts**  
   ![Python Data](assets/images/project5-cover.png)  
-  [View Scripts](https://github.com/Thanaporn19/placeholder-python-data)  
 
 ### 📡 IoT Projects
 - **ระบบจำลองการเคลื่อนไหว (Motion Simulation System)**  
@@ -52,22 +52,35 @@
   - เก็บข้อมูลมุมและแรงกดจากเซนเซอร์ MPU6050  
   - เซนเซอร์หลายตัวเชื่อมต่อผ่าน PCA9548A  
   - แสดงผลบน LCD / คอมพิวเตอร์  
-  [View Project / Diagram](https://github.com/Thanaporn19/placeholder-motion-iot)  
+
+### 🎮 Unity Projects
+- **Unity Login System**  
+  ![Unity Login](assets/images/unity-login-cover.png)  
+  - ระบบ Login / Register ผู้ใช้  
+  - เก็บข้อมูลผู้ใช้พื้นฐาน และตรวจสอบความถูกต้องก่อนเข้าระบบ  
+  - เหมาะสำหรับเรียนรู้ UI, Authentication, Scene Management  
 
 ---
 
 ## 🎯 Goals
 - Build interactive and user-friendly digital products  
 - Combine design thinking with programming, system development & IoT  
-- Learn advanced data analysis, backend, and IoT integration  
+- Learn advanced data analysis, backend, and Unity integration  
 
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: [ferntata19@gmail.com](mailto:ferntata19@gmail.com)  
-- 🔗 GitHub Profile / Portfolio: [Thanaporn19 GitHub](https://github.com/Thanaporn19/thanaporn19/blob/main/README.md)  
+- ✉️ Email: ferntata19@gmail.com  
 
 ---
+
+## 🏷️ Badges
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 -->
 
