@@ -1,4 +1,4 @@
-## 👋 Hi, I'm นางสาวธนภรณ์ ภู่ไข่ (Pasun)
+# 👋 Hi, I'm นางสาวธนภรณ์ ภู่ไข่ (Pasun)
 
 🎓 **Computer Engineering Student** | Rajamangala University of Technology Lanna, Chiang Mai  
 💻 **Passionate about UX/UI Design, Data Analysis, System Development & IoT**  
@@ -55,7 +55,7 @@
   - เก็บข้อมูลมุมและแรงกดจากเซนเซอร์ MPU6050  
   - เซนเซอร์หลายตัวเชื่อมต่อผ่าน PCA9548A  
   - แสดงผลบน LCD / คอมพิวเตอร์  
-  [View Prototype / Diagram](https://github.com/Thanaporn19/placeholder-motion-iot)  
+  [View Project / Diagram](https://github.com/Thanaporn19/placeholder-motion-iot)  
 
 ---
 
